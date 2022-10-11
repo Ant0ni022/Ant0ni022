@@ -9,4 +9,4 @@ Python, JavaScript, C++, SQL, React, Nove.js, R (Data/Scientific language), PHP,
 Ethical Hacking, Cyber Security, Network Security, Server Management, Arduino, PLC, Eletronics, Microcontroller, Embedded Systems, PCB Designs, Database, Data Science, Eletrical Engenniring and Computer Enginniring.
 
 # Softwares that I want to deeply learn how to use:
-Linux/Linux Server, Windows Server, Kali Linux, Docker, Unraid and FreeNAS.
+Linux/Linux Server, Windows Server, Kali Linux, Docker, Unraid and TrueNAS.
