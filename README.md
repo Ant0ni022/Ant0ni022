@@ -6,7 +6,7 @@ Is called a Journy because it reminds me of Pokemon. When it begins it will NEVE
 Python, JavaScript, C++, SQL, React, Nove.js, R (Data/Scientific language), PHP, GO.
 
 # Also I want to learn about: 
-Ethical Hacking, Cyber Security, Network Security, Server Management, Arduino, PLC, Eletronics, Microcontroller, Embedded Systems, PCB Designs, Database, Data Science, Eletrical Engenniring and Computer Enginniring.
+Cyber Security, Network Security, Server Management, Arduino, PLC, Eletronics, Microcontroller, Embedded Systems, PCB Designs, Database, Data Science, Eletrical Engenniring and Computer Enginniring.
 
 # Softwares that I want to deeply learn how to use:
-Linux/Linux Server, Windows Server, Kali Linux, Docker, Unraid and TrueNAS.
+Linux/Linux Server, Windows Server, Docker, Unraid and TrueNAS.
