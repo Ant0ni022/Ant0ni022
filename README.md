@@ -3,10 +3,11 @@ Is called a Journy because it reminds me of Pokemon. When it begins it will NEVE
 - So far i've learned a little bit of Java, HTML, CSS.
 
 # Program Languages that I want to learn:
-Python, JavaScript, C++, SQL, React, Nove.js, R (Data/Scientific language), PHP, GO.
+Python, JavaScript.
 
 # Also I want to learn about: 
-Cyber Security, Network Security, Server Management, Arduino, PLC, Eletronics, Microcontroller, Embedded Systems, PCB Designs, Database, Data Science, Eletrical Engenniring and Computer Enginniring.
+Cyber Security, Network Security, Server Management, Arduino, PLC, Eletronics, Microcontroller, 
+Embedded Systems, PCB Designs, Database, Data Science, Eletrical Engenniring and Computer Enginniring (Basicly a bit of everything).
 
 # Softwares that I want to deeply learn how to use:
 Linux/Linux Server, Windows Server, Docker, Unraid and TrueNAS.
